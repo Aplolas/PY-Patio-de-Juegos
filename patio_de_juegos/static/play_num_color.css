@@ -1,0 +1,35 @@
+body {
+height: 1200px;
+width: 1200px;
+font-family: 'Anek Telugu', sans-serif;
+font-family: 'Playfair Display', serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Urbanist', sans-serif;
+display: flex;
+}
+
+section {
+width: 1200px;
+}
+
+
+#titulo {
+text-align: center;
+}
+
+
+.caja {
+display: flex;
+flex-wrap: wrap;
+justify-content:space-between;
+}
+
+
+img {
+margin-top: 5%;
+background-color: #0404e2;
+border: #000000 1px solid;
+border-radius: 5%;
+height: 150px;
+width: 150px;
+}
